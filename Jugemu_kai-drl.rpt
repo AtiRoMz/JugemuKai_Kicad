@@ -1,0 +1,26 @@
+Drill report for C:\Users\ryory\OneDrive\ドキュメント\Jugemu_kai\Jugemu_kai.kicad_pcb
+Created on 2017/09/30 15:08:25
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'C:Jugemu_kai.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (152 holes)
+    T2  0.76mm  0.030"  (32 holes)
+    T3  0.80mm  0.031"  (7 holes)
+    T4  1.20mm  0.047"  (2 holes)
+
+    Total plated holes count 193
+
+
+Drill file 'C:Jugemu_kai-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.00mm  0.079"  (4 holes)
+
+    Total unplated holes count 4
